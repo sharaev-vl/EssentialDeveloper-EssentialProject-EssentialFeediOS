@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "88AF5556-820C-4EAF-9C9C-2986379734D0",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "EssentialFeediOSTests",
+        "name" : "EssentialFeediOSTests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "originHash" : "11acd99d315aa3f5561292622e599a32941eca98afcbc7d4369d2e753d8c41d2",
+  "pins" : [
+    {
+      "identity" : "essentialdeveloper-essentialproject-essentialfeed",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sharaev-vl/EssentialDeveloper-EssentialProject-EssentialFeed.git",
+      "state" : {
+        "revision" : "5e8aa9d2af7756397ee8f6dcd833699ebbb6eabf",
+        "version" : "2.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
